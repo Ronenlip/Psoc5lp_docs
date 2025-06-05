@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspcCustomData" version="4">
+<CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
+<userData>
+<dataGuid v="5f2be1a5-0687-4501-bb8c-cf21cb8211bf">
+<CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf type_name="CyDesigner.Common.ProjMgmt.GUI.CyBookmarkData" version="1">
+<indicators />
+</CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf>
+</dataGuid>
+<dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Source">
+<TreeKeys>
+<v>Source</v>
+<v>Components</v>
+<v>Output</v>
+</TreeKeys>
+<TreeStates>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>encoder control_old_V-000</v>
+<v>encoder control_old_V-000\encoder control_old_V</v>
+<v>encoder control_old_V-000\encoder control_old_V\TopDesign</v>
+<v>encoder control_old_V-000\encoder control_old_V\encoder control_old_V.cydwr</v>
+<v>encoder control_old_V-000\encoder control_old_V\encoder control_old_V.cydwr\Pins</v>
+<v>encoder control_old_V-000\encoder control_old_V\encoder control_old_V.cydwr\Analog</v>
+<v>encoder control_old_V-000\encoder control_old_V\encoder control_old_V.cydwr\Clocks</v>
+<v>encoder control_old_V-000\encoder control_old_V\encoder control_old_V.cydwr\Interrupts</v>
+<v>encoder control_old_V-000\encoder control_old_V\encoder control_old_V.cydwr\DMA</v>
+<v>encoder control_old_V-000\encoder control_old_V\encoder control_old_V.cydwr\System</v>
+<v>encoder control_old_V-000\encoder control_old_V\encoder control_old_V.cydwr\Directives</v>
+<v>encoder control_old_V-000\encoder control_old_V\encoder control_old_V.cydwr\Flash Security</v>
+<v>encoder control_old_V-000\encoder control_old_V\encoder control_old_V.cydwr\EEPROM</v>
+<v>encoder control_old_V-000\encoder control_old_V\Header Files</v>
+<v>encoder control_old_V-000\encoder control_old_V\Header Files\cyapicallbacks.h</v>
+<v>encoder control_old_V-000\encoder control_old_V\Header Files\font.h</v>
+<v>encoder control_old_V-000\encoder control_old_V\Header Files\ssd1306.h</v>
+<v>encoder control_old_V-000\encoder control_old_V\Source Files</v>
+<v>encoder control_old_V-000\encoder control_old_V\Source Files\main.c</v>
+<v>encoder control_old_V-000\encoder control_old_V\Source Files\ssd1306.c</v>
+<v>encoder control_old_V-000\encoder control_old_V\Generated_Source</v>
+<v>encoder control_old_V-000\encoder control_old_V\Generated_Source\PSoC5</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>encoder control_old_V-000</v>
+<v>encoder control_old_V-000\encoder control_old_V</v>
+<v>encoder control_old_V-000\encoder control_old_V\TopDesign</v>
+<v>encoder control_old_V-000\encoder control_old_V\encoder control_old_V.cydwr</v>
+<v>encoder control_old_V-000\encoder control_old_V\encoder control_old_V.cydwr\Pins</v>
+<v>encoder control_old_V-000\encoder control_old_V\encoder control_old_V.cydwr\Analog</v>
+<v>encoder control_old_V-000\encoder control_old_V\encoder control_old_V.cydwr\Clocks</v>
+<v>encoder control_old_V-000\encoder control_old_V\encoder control_old_V.cydwr\Interrupts</v>
+<v>encoder control_old_V-000\encoder control_old_V\encoder control_old_V.cydwr\DMA</v>
+<v>encoder control_old_V-000\encoder control_old_V\encoder control_old_V.cydwr\System</v>
+<v>encoder control_old_V-000\encoder control_old_V\encoder control_old_V.cydwr\Directives</v>
+<v>encoder control_old_V-000\encoder control_old_V\encoder control_old_V.cydwr\Flash Security</v>
+<v>encoder control_old_V-000\encoder control_old_V\encoder control_old_V.cydwr\EEPROM</v>
+<v>encoder control_old_V-000\encoder control_old_V\Header Files</v>
+<v>encoder control_old_V-000\encoder control_old_V\Header Files\cyapicallbacks.h</v>
+<v>encoder control_old_V-000\encoder control_old_V\Header Files\font.h</v>
+<v>encoder control_old_V-000\encoder control_old_V\Header Files\ssd1306.h</v>
+<v>encoder control_old_V-000\encoder control_old_V\Source Files</v>
+<v>encoder control_old_V-000\encoder control_old_V\Source Files\main.c</v>
+<v>encoder control_old_V-000\encoder control_old_V\Source Files\ssd1306.c</v>
+<v>encoder control_old_V-000\encoder control_old_V\Generated_Source</v>
+<v>encoder control_old_V-000\encoder control_old_V\Generated_Source\PSoC5</v>
+<v>encoder control_old_V-000\encoder control_old_V\Generated_Source\PSoC5\clk</v>
+<v>encoder control_old_V-000\encoder control_old_V\Generated_Source\PSoC5\clk_isr</v>
+<v>encoder control_old_V-000\encoder control_old_V\Generated_Source\PSoC5\Clock_1</v>
+<v>encoder control_old_V-000\encoder control_old_V\Generated_Source\PSoC5\Clock_2</v>
+<v>encoder control_old_V-000\encoder control_old_V\Generated_Source\PSoC5\Counter</v>
+<v>encoder control_old_V-000\encoder control_old_V\Generated_Source\PSoC5\cy_boot</v>
+<v>encoder control_old_V-000\encoder control_old_V\Generated_Source\PSoC5\Em_EEPROM_Dynamic</v>
+<v>encoder control_old_V-000\encoder control_old_V\Generated_Source\PSoC5\I2C</v>
+<v>encoder control_old_V-000\encoder control_old_V\Generated_Source\PSoC5\LCD_I2C</v>
+<v>encoder control_old_V-000\encoder control_old_V\Generated_Source\PSoC5\Opamp_1</v>
+<v>encoder control_old_V-000\encoder control_old_V\Generated_Source\PSoC5\SCL_1</v>
+<v>encoder control_old_V-000\encoder control_old_V\Generated_Source\PSoC5\SDA_1</v>
+<v>encoder control_old_V-000\encoder control_old_V\Generated_Source\PSoC5\sin_input</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>encoder control_old_V-000</v>
+<v>encoder control_old_V-000\encoder control_old_V</v>
+<v>encoder control_old_V-000\encoder control_old_V\TopDesign</v>
+<v>encoder control_old_V-000\encoder control_old_V\TopDesign\TopDesign.cysch</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>encoder control_old_V-000</v>
+<v>encoder control_old_V-000\encoder control_old_V</v>
+<v>encoder control_old_V-000\encoder control_old_V\TopDesign</v>
+<v>encoder control_old_V-000\encoder control_old_V\TopDesign\TopDesign.cysch</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>encoder control_old_V-000</v>
+<v>encoder control_old_V-000\encoder control_old_V</v>
+<v>encoder control_old_V-000\encoder control_old_V\encoder control_old_V.gpdsc</v>
+<v>encoder control_old_V-000\encoder control_old_V\encoder control_old_V.rpt</v>
+<v>encoder control_old_V-000\encoder control_old_V\encoder control_old_V_timing.html</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>encoder control_old_V-000</v>
+<v>encoder control_old_V-000\encoder control_old_V</v>
+<v>encoder control_old_V-000\encoder control_old_V\encoder control_old_V.rpt</v>
+<v>encoder control_old_V-000\encoder control_old_V\encoder control_old_V_timing.html</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStates>
+<TreeKeysV2>
+<v>Datasheet</v>
+</TreeKeysV2>
+<TreeStatesV2>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>encoder control_old_V-000</v>
+<v>encoder control_old_V-000\encoder control_old_V</v>
+<v>encoder control_old_V-000\encoder control_old_V\PSoC 5LP Architecture TRM</v>
+<v>encoder control_old_V-000\encoder control_old_V\CY8C58LP Family Datasheet</v>
+<v>encoder control_old_V-000\encoder control_old_V\System Reference Guides</v>
+<v>encoder control_old_V-000\encoder control_old_V\System Reference Guides\cy_boot_v6_10</v>
+<v>encoder control_old_V-000\encoder control_old_V\Counter_v3_0.pdf</v>
+<v>encoder control_old_V-000\encoder control_old_V\cy_clock_v2_20</v>
+<v>encoder control_old_V-000\encoder control_old_V\cy_clock_v2_20\cy_clock_v2_20.pdf</v>
+<v>encoder control_old_V-000\encoder control_old_V\cy_constant_v1_0</v>
+<v>encoder control_old_V-000\encoder control_old_V\cy_constant_v1_0\cy_constant_v1_0.pdf</v>
+<v>encoder control_old_V-000\encoder control_old_V\cy_isr_v1_70</v>
+<v>encoder control_old_V-000\encoder control_old_V\cy_isr_v1_70\cy_isr_v1_70.pdf</v>
+<v>encoder control_old_V-000\encoder control_old_V\cy_pins_v2_20</v>
+<v>encoder control_old_V-000\encoder control_old_V\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>encoder control_old_V-000\encoder control_old_V\Debouncer_v1_0.pdf</v>
+<v>encoder control_old_V-000\encoder control_old_V\Gnd_v1_0.pdf</v>
+<v>encoder control_old_V-000\encoder control_old_V\I2C_v3_50.pdf</v>
+<v>encoder control_old_V-000\encoder control_old_V\OpAmp_v1_90.pdf</v>
+<v>encoder control_old_V-000\encoder control_old_V\Power_v1_0.pdf</v>
+<v>encoder control_old_V-000\encoder control_old_V\Resistor_v1_0.pdf</v>
+<v>encoder control_old_V-000\encoder control_old_V\SwitchSPST_v1_0.pdf</v>
+<v>encoder control_old_V-000\encoder control_old_V\WaveDAC8_v2_10.pdf</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>encoder control_old_V-000</v>
+<v>encoder control_old_V-000\encoder control_old_V</v>
+<v>encoder control_old_V-000\encoder control_old_V\PSoC 5LP Architecture TRM</v>
+<v>encoder control_old_V-000\encoder control_old_V\CY8C58LP Family Datasheet</v>
+<v>encoder control_old_V-000\encoder control_old_V\System Reference Guides</v>
+<v>encoder control_old_V-000\encoder control_old_V\System Reference Guides\cy_boot_v6_10</v>
+<v>encoder control_old_V-000\encoder control_old_V\Counter_v3_0.pdf</v>
+<v>encoder control_old_V-000\encoder control_old_V\cy_clock_v2_20</v>
+<v>encoder control_old_V-000\encoder control_old_V\cy_clock_v2_20\cy_clock_v2_20.pdf</v>
+<v>encoder control_old_V-000\encoder control_old_V\cy_constant_v1_0</v>
+<v>encoder control_old_V-000\encoder control_old_V\cy_constant_v1_0\cy_constant_v1_0.pdf</v>
+<v>encoder control_old_V-000\encoder control_old_V\cy_isr_v1_70</v>
+<v>encoder control_old_V-000\encoder control_old_V\cy_isr_v1_70\cy_isr_v1_70.pdf</v>
+<v>encoder control_old_V-000\encoder control_old_V\cy_pins_v2_20</v>
+<v>encoder control_old_V-000\encoder control_old_V\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>encoder control_old_V-000\encoder control_old_V\Debouncer_v1_0.pdf</v>
+<v>encoder control_old_V-000\encoder control_old_V\Gnd_v1_0.pdf</v>
+<v>encoder control_old_V-000\encoder control_old_V\I2C_v3_50.pdf</v>
+<v>encoder control_old_V-000\encoder control_old_V\OpAmp_v1_90.pdf</v>
+<v>encoder control_old_V-000\encoder control_old_V\Power_v1_0.pdf</v>
+<v>encoder control_old_V-000\encoder control_old_V\Resistor_v1_0.pdf</v>
+<v>encoder control_old_V-000\encoder control_old_V\SwitchSPST_v1_0.pdf</v>
+<v>encoder control_old_V-000\encoder control_old_V\WaveDAC8_v2_10.pdf</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStatesV2>
+</CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+</userData>
+</CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
+<Unloaded />
+<OpenDocs>
+<name v=".\TopDesign\TopDesign.cysch" />
+<name v=".\main.c" />
+</OpenDocs>
+<OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
+
+  Actipro Docking/MDI for WinForms
+  Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
+  http://www.actiprosoftware.com
+
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Vertical"><TabbedMdiContainer Size="1010, 488" SelectedTabbedMdiWindow="1027363a-28a9-4709-8877-abbb5a2ac48a"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="2822e149-dde5-452d-b54a-c1263b5a0608" /><DocumentWindow Key="C:\Users\Ronen\OneDrive\Desktop\DOCS\encoder control_old_V.cydsn\TopDesign\TopDesign.cysch" Guid="1dff39ad-1cfa-4792-8355-ddb0bb0438ba" /><DocumentWindow Key="C:\Users\Ronen\OneDrive\Desktop\DOCS\encoder control_old_V.cydsn\main.c" Guid="1027363a-28a9-4709-8877-abbb5a2ac48a" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+<config v="" />
+<AutoUpdate v="true" />
+</CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
+</CyXmlSerializer>
